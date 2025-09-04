@@ -26,21 +26,21 @@ export default function About() {
 
           <div className="about__info">
             <div>
-              <span className="about__info-title">04+</span>
+              <span className="about__info-title">02+</span>
               <span className="about__info-name">
                 Years <br /> experience
               </span>
             </div>
 
             <div>
-              <span className="about__info-title">20+</span>
+              <span className="about__info-title">10+</span>
               <span className="about__info-name">
                 Completed <br /> project
               </span>
             </div>
 
             <div>
-              <span className="about__info-title">01+</span>
+              <span className="about__info-title">02+</span>
               <span className="about__info-name">
                 Companies <br /> worked
               </span>
@@ -50,7 +50,7 @@ export default function About() {
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
               download=""
-              href="https://docs.google.com/document/d/1lzAKSWWhBXsSvNL1-IQ-gG-4qUcyD8my/edit?usp=drive_link&ouid=105619443633857196860&rtpof=true&sd=true"
+              href="https://drive.google.com/file/d/1Zk53YJTy1uNy74x6B88XoyJElV_70xBy/view?usp=drive_link"
               className="button button--flex"
             >
               Download CV

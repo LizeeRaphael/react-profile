@@ -32,7 +32,7 @@ export default function Home() {
           <MeIcon />
         </div>
         <div className="home__data">
-          <h1 className="home__title">Hi I am Elizabeth</h1>
+          <h1 className="home__title">Hi👋I am Elizabeth</h1>
           <h3 className="home__subtitle">Full-Stack Developer</h3>
           <p className="home__description">
             Agile full-stack developer with a solid background in web and
