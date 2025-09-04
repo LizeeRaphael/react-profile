@@ -14,17 +14,17 @@ export default function Home() {
         <div className="home__social">
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a
-            href="https://www.linkedin.com/in/joel-isaiah-bobai-b74b02251/"
+            href="https://www.linkedin.com/in/akinbola-elizabeth-ba770217b/"
             className="home__social-icon"
           >
             <UilLinkedinAlt />
           </a>
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-          <a href="https://dribbble.com/bobai" className="home__social-icon">
+          <a href="https://dribbble.com/liz" className="home__social-icon">
             <UilDribbble />
           </a>
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-          <a href="https://github.com/joelbobai" className="home__social-icon">
+          <a href="https://github.com/lizeeraphael" className="home__social-icon">
             <UilGithubAlt />
           </a>
         </div>
@@ -32,15 +32,15 @@ export default function Home() {
           <MeIcon />
         </div>
         <div className="home__data">
-          <h1 className="home__title">Hi I'am Joel</h1>
+          <h1 className="home__title">Hi I am Elizabeth</h1>
           <h3 className="home__subtitle">Full-Stack Developer</h3>
           <p className="home__description">
-            Dedicated full-stack developer with a rich background in web and
-            mobile development.
+            Agile full-stack developer with a solid background in web and
+            app development.
           </p>
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a
-            href="mailto:joelbobai43@gmail.com"
+            href="mailto:bookelizabethakinbola@gmail.com"
             className="button botton--flex"
           >
             Contact Me <UilMessage size="17" className="button__icon" />

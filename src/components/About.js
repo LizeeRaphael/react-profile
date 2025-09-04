@@ -16,10 +16,10 @@ export default function About() {
 
         <div className="about__data">
           <p className="about__description">
-            I am Joel Isaiah Bobai, an adept full-stack developer recognized for
-            crafting dynamic applications. I specialize in utilizing React for
-            front-end development, Node.js for back-end functionality, and React
-            Native for mobile applications. My dedication lies in constructing
+            I am Elizabeth Akinbola, an adept full-stack developer recognized for
+            crafting dynamic applications. I specialize in website designs, 
+            app development, frontend development and backend development,
+            My dedication lies in constructing
             high-performance, scalable software solutions that consistently
             surpass client expectations.
           </p>
