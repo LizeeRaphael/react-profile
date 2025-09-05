@@ -28,7 +28,7 @@ const MeIcon = () => {
           //   y="18"
           x="-90"
           y="5"
-          xlinkHref="img/Untitled design (1).svg"
+          xlinkHref="img/pro-headshot-png-new1.png"
         />
       </g>
     </svg>
