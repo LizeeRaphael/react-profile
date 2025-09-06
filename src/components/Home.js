@@ -20,7 +20,7 @@ export default function Home() {
             <UilLinkedinAlt />
           </a>
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-          <a href="https://dribbble.com/liz" className="home__social-icon">
+          <a href="https://linktr.ee/Elizabeth_Akinbola" className="home__social-icon">
             <UilDribbble />
           </a>
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}

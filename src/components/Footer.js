@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="footer__bg">
         <div className="footer__container container grid">
           <div>
-            <h1 className="footer__title">Joel Isaiah Bobai</h1>
+            <h1 className="footer__title">Akinbola Elizabeth</h1>
             <span className="footer__subtitle">Full-Stack Developer</span>
           </div>
 
