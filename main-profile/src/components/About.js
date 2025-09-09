@@ -16,11 +16,9 @@ export default function About() {
 
         <div className="about__data">
           <p className="about__description">
-            I am Akinbola Elizabeth, agile full-stack developer with solid
-            background in web and app development. I don’t just build websites. 
-            I build digital tools that grow your business. I merge clean code, 
-            smart design, and business strategy to create websites that are fast, 
-            intuitive, and conversion-driven — not just beautiful, but built to work.
+            I am Akinbola Elizabeth, agile full-stack developer with solid background in web and app development. 
+            I don’t just build websites. I build digital tools that grow your business. I merge clean code, smart design,
+            and business strategy to create websites that are fast, intuitive, and conversion-driven — not just beautiful, but built to work.
           </p>
 
           <div className="about__info">
