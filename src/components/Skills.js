@@ -44,7 +44,7 @@ export default function Skills() {
 
               <div>
                 <h1 className="skills__title">Frontend developer</h1>
-                <span className="skils__subtitle">More then 4 years</span>
+                <span className="skils__subtitle">More than 4 years</span>
               </div>
 
               <UilAngleDown className="skills__arrow" />
@@ -158,7 +158,7 @@ export default function Skills() {
 
               <div>
                 <h1 className="skills__title">Designer</h1>
-                <span className="skils__subtitle">More then 2 years</span>
+                <span className="skils__subtitle">More than 2 years</span>
               </div>
 
               <UilAngleDown className="skills__arrow" />
