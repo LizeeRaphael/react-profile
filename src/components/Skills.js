@@ -100,7 +100,7 @@ export default function Skills() {
 
               <div>
                 <h1 className="skills__title">Backend developer</h1>
-                <span className="skils__subtitle">More then 2 years</span>
+                <span className="skils__subtitle">More than 2 years</span>
               </div>
 
               <UilAngleDown className="skills__arrow" />

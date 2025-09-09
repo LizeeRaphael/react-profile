@@ -50,7 +50,7 @@ export default function About() {
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
               download=""
-              href="https://drive.google.com/file/d/1Zk53YJTy1uNy74x6B88XoyJElV_70xBy/view?usp=drive_link"
+              href="https://drive.google.com/file/d/14M8McJbcKX30WfCrYCuAPoWxrlRnV2f3/view?usp=drive_link"
               className="button button--flex"
             >
               Download CV
