@@ -76,7 +76,7 @@ export default function Navbar() {
       <nav className="nav container">
         {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
         <a href="#" className="nav__logo">
-          Joel Isaiah Bobai
+          Akinbola Elizabeth
         </a>
 
         <div className={`nav__menu ${navState}`} id="nav-menu">

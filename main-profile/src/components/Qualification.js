@@ -54,13 +54,13 @@ export default function Qualification() {
             {/* Qualification 1*/}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification_title">Computer Science</h3>
+                <h3 className="qualification_title">Mass Communication</h3>
                 <span className="qualification__subtitle">
-                  University of the People
+                  National Open University of Nigeria (NOUN)
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2022 - 2025
+                  2021 - 2025
                 </div>
               </div>
 
@@ -86,7 +86,7 @@ export default function Qualification() {
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2021 ----
+                  2023 ----
                 </div>
               </div>
             </div>
@@ -100,7 +100,7 @@ export default function Qualification() {
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2021 ----
+                  2023 ----
                 </div>
               </div>
 
@@ -126,7 +126,7 @@ export default function Qualification() {
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2022 ----
+                  2023 ----
                 </div>
               </div>
             </div>
@@ -142,11 +142,11 @@ export default function Qualification() {
               <div>
                 <h3 className="qualification_title">Software Enginner</h3>
                 <span className="qualification__subtitle">
-                  Microsoft - peru
+                  {/* Microsoft - peru */}
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2016 - 2018
+                  {/* 2016 - 2018 */}
                 </div>
               </div>
 
@@ -168,11 +168,11 @@ export default function Qualification() {
               <div>
                 <h3 className="qualification_title">Frontend Developer</h3>
                 <span className="qualification__subtitle">
-                  Apple Inc - Spain
+                  {/* Apple Inc - Spain */}
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2018 - 2020
+                  {/* 2018 - 2020 */}
                 </div>
               </div>
             </div>
@@ -181,10 +181,10 @@ export default function Qualification() {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification_title">Ui Designer</h3>
-                <span className="qualification__subtitle">Figma - Spain</span>
+                <span className="qualification__subtitle">Figma</span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2017 - 2019
+                  {/* 2017 - 2019 */}
                 </div>
               </div>
 

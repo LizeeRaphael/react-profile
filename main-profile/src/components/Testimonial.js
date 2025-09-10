@@ -9,15 +9,15 @@ export default function Testimonial() {
       id: 1,
       name: "James Michael",
       description:
-        "Joel's proficiency in React and Node.js was evident from the start. He created a seamless and intuitive user experience that has greatly improved our platform. His attention to detail and commitment to quality sets him apart. We look forward to.... ",
+        "Liz's proficiency in React was evident from the start. she created a seamless and intuitive user experience that has greatly improved our platform. His attention to detail and commitment to quality sets him apart. We look forward to.... ",
       image:
         "img/bl.jpg",
     },
     {
       id: 2,
-      name: "Joy Aoms",
+      name: "Joy Ayo",
       description:
-        "Working with Joel was a pleasure. His proficiency in React Native ensured our mobile app was not only functional, but also user-friendly. He went above and beyond to meet our specific requirements, and his dedication to excellence was evident in the final product.",
+        "Working with her was a pleasure. She was able to create a responsive and user-friendly website that met our needs. She went above and beyond to meet our specific requirements, and her attention to detail and communication skill won me over",
       image:
         "img/jon.jpg",
     },
@@ -25,7 +25,7 @@ export default function Testimonial() {
       id: 3,
       name: "Judith Solomon",
       description:
-        "Working with Joel was a game-changer for our project. His expertise in full-stack development brought our vision to life, and the end result exceeded our expectations. We highly recommend Joel for his technical prowess and dedication to delivering top-notch applications.",
+        "Elizabeth handled our project. I didn't have to talk much, i was impressed with how she listens and delivers her work. I recommend her.",
       image:
         "img/ju.jpg",
     },

@@ -26,14 +26,14 @@ export default function Services() {
   return (
         <>
            <h2 className='section__title'>Services</h2>
-           <span className='section__subtitle'>What i offer</span> 
+           <span className='section__subtitle'>What I do</span> 
 
            <div className='services__container container grid'>
                      {/* SERVICES 1 */}
                 <div className='services__content'>
                     <div>
                         <UilWebGrid className='services__icon' />
-                        <h3 className='services__title'>Ui/Ux <br /> Designer</h3>
+                        <h3 className='services__title'>Website <br /> Design</h3>
                     </div>
 
                     <span  onClick={event => UiClick(event, 'active-modal')} className='button button--flex button--small button--link services__button'>
@@ -43,18 +43,18 @@ export default function Services() {
 
                     <div className={`services__modal ${State}`}>
                         <div className='services__modal-content'>
-                            <h4 className='services__modal-title'>Ui/Ux <br/> Designer</h4>
+                            <h4 className='services__modal-title'>Frontend <br/> development</h4>
                             <UilTimes  onClick={event => UiClick(event, '')} className='services__modal-close' />
 
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I develop the user interface.</p>
+                                    <p>Proficient with No/Low code tools</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>We page development.</p>
+                                    <p>I can develop user interface in clean code.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
@@ -64,7 +64,7 @@ export default function Services() {
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I position your company brand.</p>
+                                    <p>I strategically position your brand.</p>
                                 </li>
                             </ul>
                         </div>
@@ -74,7 +74,7 @@ export default function Services() {
                        <div className='services__content'>
                     <div>
                         <UilArrow className='services__icon' />
-                        <h3 className='services__title'>Frontend <br /> Developer</h3>
+                        <h3 className='services__title'>Frontend <br /> Development</h3>
                     </div>
 
                     <span onClick={event => UiClick1(event, 'active-modal')} className='button button--flex button--small button--link services__button'>
@@ -90,22 +90,22 @@ export default function Services() {
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I develop the user interface.</p>
+                                    <p>I sit with your idea and craft user interface that works.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>We page development.</p>
+                                    <p>I leverage perspective from my creative and technical fields to deliver.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I create ux element interactions.</p>
+                                    <p>I design with users in mind.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I position your company brand.</p>
+                                    <p>I strategically position your company brand.</p>
                                 </li>
                             </ul>
                         </div>
@@ -115,7 +115,7 @@ export default function Services() {
                        <div className='services__content'>
                     <div>
                         <UilPen className='services__icon' />
-                        <h3 className='services__title'>Branding <br /> Designer</h3>
+                        <h3 className='services__title'>Backend <br /> Development</h3>
                     </div>
 
                     <span onClick={event => UiClick2(event, 'active-modal')} className='button button--flex button--small button--link services__button'>
@@ -125,28 +125,28 @@ export default function Services() {
 
                     <div className={`services__modal ${State2}`}>
                         <div className='services__modal-content'>
-                            <h4 className='services__modal-title'>Branding <br/> Designer</h4>
+                            <h4 className='services__modal-title'>Backend <br/> Development</h4>
                             <UilTimes onClick={event => UiClick2(event, '')} className='services__modal-close' />
 
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I develop the user interface.</p>
+                                    <p>I merge clean code that do the work.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>We page development.</p>
+                                    <p>I understand backend logic.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I create ux element interactions.</p>
+                                    <p>I can take on App development project.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I position your company brand.</p>
+                                    <p>I build with your vision in mind.</p>
                                 </li>
                             </ul>
                         </div>

@@ -54,13 +54,13 @@ export default function Qualification() {
             {/* Qualification 1*/}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification_title">Computer Science</h3>
+                <h3 className="qualification_title">Mass Communication</h3>
                 <span className="qualification__subtitle">
-                  University of the People
+                  National Open Universty of Nigeria (NOUN)
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2022 - 2025
+                  2021 - 2025
                 </div>
               </div>
 
@@ -80,13 +80,13 @@ export default function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification_title">Web Design</h3>
+                <h3 className="qualification_title">Website Design</h3>
                 <span className="qualification__subtitle">
-                  self-taught
+                  Self-taught
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2021 ----
+                  2023 ----
                 </div>
               </div>
             </div>
@@ -94,13 +94,13 @@ export default function Qualification() {
             {/* Qualification 3*/}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification_title">Web Development</h3>
+                <h3 className="qualification_title">Frontend Development</h3>
                 <span className="qualification__subtitle">
-                 self-taught
+                 Meta
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2021 ----
+                  2024 ----
                 </div>
               </div>
 
@@ -120,13 +120,13 @@ export default function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification_title">Master in Ui/Ux</h3>
+                <h3 className="qualification_title">Backend development</h3>
                 <span className="qualification__subtitle">
-                  self-taught
+                  Self-taught
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2022 ----
+                  2023 ----
                 </div>
               </div>
             </div>
@@ -140,13 +140,13 @@ export default function Qualification() {
             {/* Qualification 1*/}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification_title">Software Enginner</h3>
+                <h3 className="qualification_title">Software Developer</h3>
                 <span className="qualification__subtitle">
-                  Microsoft - peru
+                  Brainquest App
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2016 - 2018
+                  2025 ---
                 </div>
               </div>
 
@@ -166,13 +166,13 @@ export default function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification_title">Frontend Developer</h3>
+                <h3 className="qualification_title">Fullstack Developer (Intern)</h3>
                 <span className="qualification__subtitle">
-                  Apple Inc - Spain
+                  Codeflare
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2018 - 2020
+                  Jan 2023 - July 2023
                 </div>
               </div>
             </div>
@@ -180,11 +180,11 @@ export default function Qualification() {
             {/* Qualification 3*/}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification_title">Ui Designer</h3>
-                <span className="qualification__subtitle">Figma - Spain</span>
+                <h3 className="qualification_title">Techpatriate Global Resources</h3>
+                <span className="qualification__subtitle">Technical support specialist</span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
-                  2017 - 2019
+                  2024 ---
                 </div>
               </div>
 

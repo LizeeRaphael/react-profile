@@ -13,7 +13,7 @@ export default function Project() {
             </p>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
-              href="mailto:joelbobai43@gmail.com"
+              href="mailto:bookelizabethakinbola@gmail.com"
               className="button button--flex button--white"
             >
               Contact me

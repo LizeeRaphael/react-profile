@@ -80,7 +80,7 @@ export default function Contact() {
               <span className="contact__subtitle">
                 {/* +2348027663942 
                 <br /> */}
-                +2348054093530
+                +2349035598353
               </span>
             </div>
           </div>
@@ -89,7 +89,7 @@ export default function Contact() {
             <div>
               <h3 className="contact__title">Email</h3>
               <span className="contact__subtitle">
-                joelisaiahbobai@gmail.com
+                bookelizabethakinbola@gmail.com
               </span>
             </div>
           </div>

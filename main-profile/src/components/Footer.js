@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="footer__bg">
         <div className="footer__container container grid">
           <div>
-            <h1 className="footer__title">Joel Isaiah Bobai</h1>
+            <h1 className="footer__title">Elizabeth</h1>
             <span className="footer__subtitle">Full-Stack Developer</span>
           </div>
 
@@ -37,26 +37,26 @@ export default function Footer() {
           <div className="footer__socials">
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
-              href="https://www.facebook.com/joel.isaiahbobai"
+              href="https://web.facebook.com/profile.php?id=100064090987402&mibextid=ZbWKwL&_rdc=1&_rdr#"
               className="footer__social"
             >
               <UilFacebookF />
             </a>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
-              href="https://www.instagram.com/joel_isaiah_bobai"
+              href="https://www.instagram.com/liz__logic/?igsh=MXJ5eW04ZnVqMnh6cA%3D%3D#"
               className="footer__social"
             >
               <UilInstagram />
             </a>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-            <a href="https://twitter.com/bobai_joel" className="footer__social">
+            <a href="https://x.com/Liz_Logic?t=mOApxIEeomLMjAoCTSOQeA&s=09" className="footer__social">
               <UilTwitterAlt />
             </a>
           </div>
         </div>
 
-        <p className="footer__copy">&#169; Bobai. All right reserved</p>
+        <p className="footer__copy">&#169; Liz. All right reserved</p>
       </div>
     </footer>
   );

@@ -44,7 +44,7 @@ export default function Skills() {
 
               <div>
                 <h1 className="skills__title">Frontend developer</h1>
-                <span className="skils__subtitle">More than 4 years</span>
+                <span className="skils__subtitle">2 years+</span>
               </div>
 
               <UilAngleDown className="skills__arrow" />
@@ -54,7 +54,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">HTML</h3>
-                  <span className="skills__number">99%</span>
+                  <span className="skills__number">92%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__html"></span>
@@ -64,7 +64,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">CSS</h3>
-                  <span className="skills__number">99%</span>
+                  <span className="skills__number">89%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__css"></span>
@@ -74,7 +74,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">JavaScript</h3>
-                  <span className="skills__number">90%</span>
+                  <span className="skills__number">92%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__js"></span>
@@ -84,7 +84,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">React</h3>
-                  <span className="skills__number">90%</span>
+                  <span className="skills__number">88%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__react"></span>
@@ -93,6 +93,8 @@ export default function Skills() {
             </div>
           </div>
 
+          
+
           {/* Skills 2 */}
           <div className={`skills__content ${toggleClassCheck1}`}>
             <div onClick={Skills1} className="skills__header">
@@ -100,7 +102,7 @@ export default function Skills() {
 
               <div>
                 <h1 className="skills__title">Backend developer</h1>
-                <span className="skils__subtitle">More than 2 years</span>
+                <span className="skils__subtitle">2 years+</span>
               </div>
 
               <UilAngleDown className="skills__arrow" />
@@ -109,8 +111,8 @@ export default function Skills() {
             <div className="skills__list grid">
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">PHP</h3>
-                  <span className="skills__number">30%</span>
+                  <h3 className="skills__name">Node Js</h3>
+                  <span className="skills__number">50%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__php"></span>
@@ -119,8 +121,8 @@ export default function Skills() {
 
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">Node Js</h3>
-                  <span className="skills__number">95%</span>
+                  <h3 className="skills__name">PHP</h3>
+                  <span className="skills__number">82%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__node"></span>
@@ -129,8 +131,8 @@ export default function Skills() {
 
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">Firebase</h3>
-                  <span className="skills__number">90%</span>
+                  <h3 className="skills__name">My SQL</h3>
+                  <span className="skills__number">87%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__firebase"></span>
@@ -139,8 +141,8 @@ export default function Skills() {
 
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">Python</h3>
-                  <span className="skills__number">55%</span>
+                  <h3 className="skills__name">Firebase</h3>
+                  <span className="skills__number">72%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__py"></span>
@@ -157,8 +159,8 @@ export default function Skills() {
               <UilSwatchbook className="skills__icon" />
 
               <div>
-                <h1 className="skills__title">Designer</h1>
-                <span className="skils__subtitle">More than 2 years</span>
+                <h1 className="skills__title">Website designer</h1>
+                <span className="skils__subtitle">3 years+</span>
               </div>
 
               <UilAngleDown className="skills__arrow" />
@@ -167,7 +169,7 @@ export default function Skills() {
             <div className="skills__list grid">
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">Figma</h3>
+                  <h3 className="skills__name">Wordpress</h3>
                   <span className="skills__number">90%</span>
                 </div>
                 <div className="skills__bar">
@@ -177,8 +179,8 @@ export default function Skills() {
 
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">Sketch</h3>
-                  <span className="skills__number">30%</span>
+                  <h3 className="skills__name">Figma</h3>
+                  <span className="skills__number">43%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__sketch"></span>
@@ -187,7 +189,7 @@ export default function Skills() {
 
               <div className="skills__data">
                 <div className="skills__titles">
-                  <h3 className="skills__name">Sketchbook</h3>
+                  <h3 className="skills__name">Sketch</h3>
                   <span className="skills__number">30%</span>
                 </div>
                 <div className="skills__bar">
