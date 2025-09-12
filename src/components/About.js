@@ -17,7 +17,7 @@ export default function About() {
         <div className="about__data">
           <p className="about__description">
             I am Elizabeth, full-stack developer with solid background in web and app development.
-            I don't just build websites. I think, sit with your ideas and convert it to software products. I merge clean code, smart design,
+            I merge clean code, smart design,
             and strategy to create websites that are fast, intuitive, and conversion-driven, not just beautiful but built to work.
           </p>
 
