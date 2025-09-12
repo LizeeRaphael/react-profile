@@ -9,16 +9,16 @@ export default function About() {
 
       <div className="about__container container grid">
         <img
-          src="https://firebasestorage.googleapis.com/v0/b/sendfile-a4b5e.appspot.com/o/Screenshot%202023-11-09%20002741.png?alt=media&token=f1d38081-d4d1-424b-8601-1791e5a80bad"
-          alt=""
+          src="img/about-img-edited.jpg"
+          alt="about-imageshot"
           className="about__img"
         />
 
         <div className="about__data">
           <p className="about__description">
             I am Elizabeth, full-stack developer with solid background in web and app development.
-            I don't just build. I think, sit with your ideas and convert it to software products. I merge clean code, smart design,
-            and business strategy to create websites that are fast, intuitive, and conversion-driven, not just beautiful, but built to work.
+            I don't just build websites. I think, sit with your ideas and convert it to software products. I merge clean code, smart design,
+            and strategy to create websites that are fast, intuitive, and conversion-driven, not just beautiful but built to work.
           </p>
 
           <div className="about__info">

@@ -26,9 +26,9 @@ const MeIcon = () => {
           className="home__blob-img"
           //   x="12"
           //   y="18"
-          x="-90"
+          x="-5"
           y="5"
-          xlinkHref="img/pro-headshot-png-new1.png"
+          xlinkHref="img/pro-headshot-newest.svg"
         />
       </g>
     </svg>
