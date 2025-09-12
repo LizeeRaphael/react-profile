@@ -7,27 +7,27 @@ export default function Testimonial() {
   const testimonialData = [
     {
       id: 1,
-      name: "James Michael",
+      name: "Chiamaka Deborah",
       description:
-        "Joel's proficiency in React and Node.js was evident from the start. He created a seamless and intuitive user experience that has greatly improved our platform. His attention to detail and commitment to quality sets him apart. We look forward to.... ",
+        "Liz is one of those rare developers who can move seamlessly between front-end elegance and back-end logic. She connected our PHP backend with a React front end and optimized our database queries in MySQL, all while keeping the project ahead of schedule. Beyond execution, she guided us strategically, helping prioritize features that gave maximum impact. The result was not just an app, but a solution that solved real business problems. ",
       image:
-        "img/bl.jpg",
+        "img/Chiamaka-whatsApp Image.jpeg",
     },
     {
       id: 2,
-      name: "Joy Aoms",
+      name: "Olaitan Christy",
       description:
-        "Working with Joel was a pleasure. His proficiency in React Native ensured our mobile app was not only functional, but also user-friendly. He went above and beyond to meet our specific requirements, and his dedication to excellence was evident in the final product.",
+        "Working with Elizabeth was a turning point for our payment platform. She didn’t just code, she asked the right questions about users and backend efficiency.  She made it easy for me as a non-technical client. I'd recommend her.",
       image:
-        "img/jon.jpg",
+        "img/Christy-whatsApp Image.jpeg",
     },
     {
       id: 3,
-      name: "Judith Solomon",
+      name: "Vincent Lawrence",
       description:
-        "Working with Joel was a game-changer for our project. His expertise in full-stack development brought our vision to life, and the end result exceeded our expectations. We highly recommend Joel for his technical prowess and dedication to delivering top-notch applications.",
+        "She took our outdated WordPress site and transformed it into a high-performing business tool. Instead of just installing plugins, she also customized PHP scripts to give us exactly what we needed. She balanced aesthetics with performance, making sure our site was fast, secure, and user-friendly. What impressed me most was her strategic execution, she anticipated challenges we didn’t even know existed before they became problems. She's still maintaining the site, we trust her delivery.",
       image:
-        "img/ju.jpg",
+        "img/Vincent-whatsApp Image.jpeg",
     },
   ];
 

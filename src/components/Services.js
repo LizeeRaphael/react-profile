@@ -5,8 +5,7 @@ import { UilArrowRight } from '@iconscout/react-unicons';
 import { UilTimes } from '@iconscout/react-unicons';
 import { UilCheckCircle } from '@iconscout/react-unicons';
 import { UilArrow } from '@iconscout/react-unicons';
-import { UilPen } from '@iconscout/react-unicons';
-
+import { UilServerNetwork } from "@iconscout/react-unicons";
 
 export default function Services() {
     const [State, setState] = useState('');
@@ -90,12 +89,12 @@ export default function Services() {
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I sit with your idea and craft user interface that works.</p>
+                                    <p>I build pretty UI with high-conversion rate.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <UilCheckCircle className='services__modal-icon' />
-                                    <p>I leverage perspective from my creative and technical fields to deliver.</p>
+                                    <p>I combine creative and technical approach.</p>
                                 </li>
 
                                 <li className='services__modal-service'>
@@ -114,7 +113,7 @@ export default function Services() {
                        {/* SERVICES 3 */}
                        <div className='services__content'>
                     <div>
-                        <UilPen className='services__icon' />
+                        <UilServerNetwork className="skills__icon" />
                         <h3 className='services__title'>Backend <br /> Development</h3>
                     </div>
 

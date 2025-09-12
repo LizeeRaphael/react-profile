@@ -59,7 +59,7 @@ export default function Navbar() {
     },
     {
       id: 5,
-      title: "Porfolio",
+      title: "My Works",
       href: "portfolio",
       icon: UilScenery,
     },
