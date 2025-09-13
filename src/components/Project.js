@@ -25,7 +25,7 @@ export default function Project() {
             
             src="/img/footer-side-img-removebg-preview.png"
             
-            alt="Liz-image"
+            alt="Elizabeth Akinbola portrait illustration"
             className="project__img"
           />
         </div>
