@@ -57,42 +57,42 @@ export default function Portfolio() {
     },
     {
       id: 6,
-      title: "Ring Fantasy",
+      title: "Portfolio site ⚡",
       content:
-        "I created an algorithm for a fantasy basketball game that involves designing the logic that governs various aspects of the game, including drafting players, managing finances and simulating matches.",
-      href: "https://play.google.com/store/apps/details?id=com.sixtemia.ringfantasy",
+        "A simple, responsive portfolio site built with HTML, CSS, and JavaScript, presenting services, team, and contact details in a clean layout. Slick.js for smooth interactions, FontAwesome for modern icons.",
+      href: "https://lizeeraphael.github.io/",
       image: "/project6.png",
     },
     {
       id: 7,
-      title: "Social Media UI",
+      title: "Project showcase website 💼 ",
       content:
-        "I created a user-friendly UI for a Social Media web app, and an interface that is intuitive, visually appealing and encourages user engagement.",
-      href: "https://yudahtech.github.io/YudahTech_social-media/",
+        "Built my portfolio site with React, added dark mode toggle, a collapsible mobile navbar, and a bottom navigation bar for seamless mobile use. Optimized for speed, accessibility, and clean presentation of projects and skills.",
+      href: "https://elizabeth-akinbola.netlify.app/",
       image: "/project7.png",
     },
     {
       id: 8,
-      title: "Virtual Meeting Application",
+      title: "Manzo ✈️",
       content:
-        "I created a virtual meeting web application, that has various features and considerations, to provide a seamless and effective experience for users",
-      href: "https://ckwvwosj88845qojnnw2ldyuc-5u4jrz147-joelbobai.vercel.app/create",
+        "Contributed to a real-world flight booking platform built with React and Node.js, developing booking flows (search, checkout, payment), a journey from search to purchase. Widely used by travelers today.",
+      href: "https://manzo.com.ng/",
       image: "/project1.png",
     },
     {
       id: 9,
-      title: "Joejoe Voice Assistant",
+      title: "Upscale 💼 ",
       content:
-        "I built a voice assistant that has integrating automatic speech recognition (ASR), natural language processing (NLP), and other technologies to understand and respond to user commands.",
-      href: "https://ai-joejoe.netlify.app/",
+        "Built a corporate site with HTML, CSS, and JavaScript, showcasing the company’s AI-driven consulting services, team expertise, blog and client success stories positioning the brand as a trusted partner.",
+      href: "https://upscalestrategy.biz/",
       image: "/project2.png",
     },
     {
       id: 10,
-      title: "ZINTO-PINTO",
+      title: "Terra 💰",
       content:
-        "I created the frontend for ZINTOPINTO, designing a visually appealing and user-friendly website, that reflects the luxury, comfort, and the unique experiences offered by the service apartment rental company.",
-      href: "https://zintopinto.com/",
+        "Built a corporate site for an investment company using PHP + MySQL, to deliver structured content and professional branding. Integrated a language switch so visitors from any region can access site content easily.",
+      href: "https://terrafortisholdings.com/",
       image: "/project3.png",
     },
   ];
