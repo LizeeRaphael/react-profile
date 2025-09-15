@@ -15,7 +15,7 @@ export default function Contact() {
 
   const sendRequest = async () => {
     const res = await axios
-      .post(`https://dm-mr-bobai-ckzo.vercel.app/bobai/sendmail`, inputs)
+      .post(`mailto:bookelizabethakinbola@gmail.com`, inputs)
       .catch((err) => {
         errorHandle(err.response?.data);
         console.log(err, err?.response?.data);

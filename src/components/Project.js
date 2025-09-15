@@ -23,7 +23,7 @@ export default function Project() {
 
           <img
             
-            src="/img/footer-side-img-removebg-preview.png"
+            src="/img/footer-side-img-preview.png"
             
             alt="Elizabeth Akinbola portrait illustration"
             className="project__img"

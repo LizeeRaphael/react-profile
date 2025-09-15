@@ -64,7 +64,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">CSS</h3>
-                  <span className="skills__number">89%</span>
+                  <span className="skills__number">92%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__css"></span>
@@ -74,7 +74,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">JavaScript</h3>
-                  <span className="skills__number">92%</span>
+                  <span className="skills__number">89%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__js"></span>
@@ -122,7 +122,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">PHP</h3>
-                  <span className="skills__number">82%</span>
+                  <span className="skills__number">87%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__node"></span>
@@ -132,7 +132,7 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">My SQL</h3>
-                  <span className="skills__number">87%</span>
+                  <span className="skills__number">84%</span>
                 </div>
                 <div className="skills__bar">
                   <span className="skills__percentage skills__firebase"></span>

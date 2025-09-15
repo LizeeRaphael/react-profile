@@ -9,7 +9,7 @@ export default function Testimonial() {
       id: 1,
       name: "Chiamaka Deborah",
       description:
-        "Liz is one of those rare developers who can move seamlessly between front-end elegance and back-end logic. She connected our PHP backend with a React front end and optimized our database queries in MySQL, all while keeping the project ahead of schedule. Beyond execution, she guided us strategically, helping prioritize features that gave maximum impact. The result was not just an app, but a solution that solved real business problems. ",
+        "Liz is one of those rare developers who can move seamlessly between front-end elegance and back-end logic. She connected our PHP backend with a React front end and optimized our database queries in MySQL, all while keeping the project ahead of schedule. ",
       image:
         "img/Chiamaka-whatsApp Image.jpeg",
     },
@@ -25,7 +25,7 @@ export default function Testimonial() {
       id: 3,
       name: "Vincent Lawrence",
       description:
-        "She took our outdated WordPress site and transformed it into a high-performing business tool. Instead of just installing plugins, she also customized PHP scripts to give us exactly what we needed. She balanced aesthetics with performance, making sure our site was fast, secure, and user-friendly. What impressed me most was her strategic execution, she anticipated challenges we didn’t even know existed before they became problems. She's still maintaining the site, we trust her delivery.",
+        "She took our outdated WordPress site and transformed it into a high-performing business tool. Instead of just installing plugins, she also customized PHP scripts to give us exactly what we needed. She's still maintaining the site, we trust her delivery.",
       image:
         "img/Vincent-whatsApp Image.jpeg",
     },

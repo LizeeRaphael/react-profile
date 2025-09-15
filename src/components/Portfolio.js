@@ -18,19 +18,19 @@ export default function Portfolio() {
   const portfolioData = [
     {
       id: 1,
-      title: "WELFARE",
+      title: "UPSCALE 💼 ",
       content:
-        "I created, frontend for the Kenned Omosun Charity Foundation using React that involves designing a user interface that allows users to interact with the information and services provided by the foundation.",
-      href: "https://kennedyomosuncharityfoundation.org",
-      image: "/img/Screenshot 2023-11-08 185037.png",
+        "Built a corporate site with HTML, CSS, and JavaScript, showcasing the company’s AI-driven consulting services, team expertise, blog and client success stories positioning the brand as a trusted partner.",
+      href: "https://upscalestrategy.biz/",
+      image: "/img/project1.png",
     },
     {
       id: 2,
-      title: "Covenant Foundation Schools",
+      title: "Manzo ✈️ ",
       content:
-        "I built a web application that can handle various aspects of school management, such as student enrollment, subject management, grades, and more.",
-      href: "https://cfschools.com.ng/",
-      image: "/img/Screenshot 2023-11-08 184849.png",
+        "Contributed to a real-world flight booking platform built with React and Node.js, developing booking flows (search, checkout, payment), a journey from search to purchase. Widely used by travelers today.",
+      href: "https://manzo.com.ng/",
+      image: "/img/project2.png",
     },
     {
       id: 3,
@@ -38,7 +38,7 @@ export default function Portfolio() {
       content:
         "I created the frontend for a business consulting firm, and designed a user interface that allowed users to interact with the information and services provided by the company.",
       href: "https://luxoliteconsultint.com/",
-      image: "/img/Screenshot 2023-11-08 184621.png",
+      image: "/img/project3.png",
     },
     {
       id: 4,
@@ -46,14 +46,14 @@ export default function Portfolio() {
       content:
         "I created the ultimate app that brings together a wide range of powerful AI tools at your fingertips. Whether you're a student, a professional, or simply curious about artificial intelligence, this app is designed to empower you with cutting-edge AI capabilities.",
       href: "https://play.google.com/store/apps/details?id=com.legion.x&pli=1",
-      image: "/Screenshot 2023-11-12 181613.png",
+      image: "/project4.png",
     },
     {
       id: 5,
       title: "Mishal Medi & Mart",
       content: `I built a mobile application for "Mishal Supermarket and Pharmacy Limited" that can handle various aspects of checkout system, such as product catalog and shopping cart. Using high-quality images and organised their products in a user-friendly manner.`,
       href: "https://play.google.com/store/apps/details?id=com.web.mishal_app",
-      image: "/Screenshot 2023-11-12 181900.png",
+      image: "/project5.png",
     },
     {
       id: 6,
@@ -61,7 +61,7 @@ export default function Portfolio() {
       content:
         "I created an algorithm for a fantasy basketball game that involves designing the logic that governs various aspects of the game, including drafting players, managing finances and simulating matches.",
       href: "https://play.google.com/store/apps/details?id=com.sixtemia.ringfantasy",
-      image: "/Screenshot 2023-11-13 181947.png",
+      image: "/project6.png",
     },
     {
       id: 7,
@@ -69,7 +69,7 @@ export default function Portfolio() {
       content:
         "I created a user-friendly UI for a Social Media web app, and an interface that is intuitive, visually appealing and encourages user engagement.",
       href: "https://yudahtech.github.io/YudahTech_social-media/",
-      image: "/Screenshot 2023-11-13 183951.png",
+      image: "/project7.png",
     },
     {
       id: 8,
@@ -77,7 +77,7 @@ export default function Portfolio() {
       content:
         "I created a virtual meeting web application, that has various features and considerations, to provide a seamless and effective experience for users",
       href: "https://ckwvwosj88845qojnnw2ldyuc-5u4jrz147-joelbobai.vercel.app/create",
-      image: "/Screenshot 2023-11-13 191039.png",
+      image: "/project1.png",
     },
     {
       id: 9,
@@ -85,7 +85,7 @@ export default function Portfolio() {
       content:
         "I built a voice assistant that has integrating automatic speech recognition (ASR), natural language processing (NLP), and other technologies to understand and respond to user commands.",
       href: "https://ai-joejoe.netlify.app/",
-      image: "/Screenshot 2023-11-13 191119.png",
+      image: "/project.png",
     },
     {
       id: 10,
@@ -93,7 +93,7 @@ export default function Portfolio() {
       content:
         "I created the frontend for ZINTOPINTO, designing a visually appealing and user-friendly website, that reflects the luxury, comfort, and the unique experiences offered by the service apartment rental company.",
       href: "https://zintopinto.com/",
-      image: "/Screenshot 2023-11-13 191329.png",
+      image: "/project3.png",
     },
   ];
 
@@ -138,7 +138,7 @@ export default function Portfolio() {
                           className="button button--flex button--small portfolio__button"
                            style={{ margin: "0px 0px 40px 0px" }}
                             >
-                          Demo
+                          View
                           <UilArrowRight className="button__icon" />
                         </a>
                       </div>
