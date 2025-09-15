@@ -73,27 +73,27 @@ export default function Portfolio() {
     },
     {
       id: 8,
-      title: "Manzo ✈️",
+      title: "Web-based Piano🎹 (Practice)",
       content:
-        "Contributed to a real-world flight booking platform built with React and Node.js, developing booking flows (search, checkout, payment), a journey from search to purchase. Widely used by travelers today.",
-      href: "https://manzo.com.ng/",
-      image: "/project1.png",
+        "Created interactive web based piano app where users can play sounds via mouse or keyboard input. Deepened my grasp of handling multimedia in the browser, user interaction flows and interfaces engagement.",
+      href: "https://lizeeraphael.github.io/lizeepiano.github.io/",
+      image: "/project8.png",
     },
     {
       id: 9,
-      title: "Upscale 💼 ",
+      title: "Web-based Calc🧮 (Practice) ",
       content:
-        "Built a corporate site with HTML, CSS, and JavaScript, showcasing the company’s AI-driven consulting services, team expertise, blog and client success stories positioning the brand as a trusted partner.",
-      href: "https://upscalestrategy.biz/",
-      image: "/project2.png",
+        "JavaScript functional calculator to practice logic handling and event-driven programming. Helped me strengthen understanding of DOM manipulation, input validation, and clean code structure.",
+      href: "https://lizeecalculator-github-io.vercel.app/",
+      image: "/project9.png",
     },
     {
       id: 10,
-      title: "Terra 💰",
+      title: "Dice Game🎲 (Practice)",
       content:
-        "Built a corporate site for an investment company using PHP + MySQL, to deliver structured content and professional branding. Integrated a language switch so visitors from any region can access site content easily.",
-      href: "https://terrafortisholdings.com/",
-      image: "/project3.png",
+        "Developed a web based dice game with random number generation and score tracking. It improved my ability to apply core JavaScript concepts, reinforcing concepts of state, conditionals, and dynamic UI.",
+      href: "https://lizeeraphael.github.io/lizeepiano.github.io/",
+      image: "/project10.png",
     },
   ];
 
