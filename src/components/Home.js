@@ -115,7 +115,7 @@ export default function Home() {
       </div>
 
       <div className="home__scroll">
-        <a href="" className="home__scroll-button button--flex">
+        <a href="#home-scroll" className="home__scroll-button button--flex">
           <UilMouseAlt className="home__scroll-mouse" />
           <span className="home__scroll-name">Scroll down</span>
           <UilArrowDown className="home__scroll-arrow" />
