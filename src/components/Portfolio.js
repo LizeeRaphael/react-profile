@@ -18,7 +18,7 @@ export default function Portfolio() {
   const portfolioData = [
     {
       id: 1,
-      title: "UPSCALE 💼 ",
+      title: "Upscale 💼 ",
       content:
         "Built a corporate site with HTML, CSS, and JavaScript, showcasing the company’s AI-driven consulting services, team expertise, blog and client success stories positioning the brand as a trusted partner.",
       href: "https://upscalestrategy.biz/",
@@ -34,25 +34,25 @@ export default function Portfolio() {
     },
     {
       id: 3,
-      title: "Luxolite Consult International",
+      title: "Terra 💰 ",
       content:
-        "I created the frontend for a business consulting firm, and designed a user interface that allowed users to interact with the information and services provided by the company.",
-      href: "https://luxoliteconsultint.com/",
+        "Built a corporate site for an investment company using PHP + MySQL, to deliver structured content and professional branding. Integrated a language switch so visitors from any region can access site content easily.",
+      href: "https://terrafortisholdings.com/",
       image: "/img/project3.png",
     },
     {
       id: 4,
-      title: "Legion X",
+      title: "Social App📱 (Liz|Logic)",
       content:
-        "I created the ultimate app that brings together a wide range of powerful AI tools at your fingertips. Whether you're a student, a professional, or simply curious about artificial intelligence, this app is designed to empower you with cutting-edge AI capabilities.",
-      href: "https://play.google.com/store/apps/details?id=com.legion.x&pli=1",
+        "Built a social app prototype using HTML, CSS, JavaScript, replicating key UI and interaction flows such as posts, likes, and comments. Integrated dark mode switch and adjustable FONT size so users of any age can experience.",
+      href: "https://social-media-app-liz-logic.vercel.app/",
       image: "/project4.png",
     },
     {
       id: 5,
-      title: "Mishal Medi & Mart",
-      content: `I built a mobile application for "Mishal Supermarket and Pharmacy Limited" that can handle various aspects of checkout system, such as product catalog and shopping cart. Using high-quality images and organised their products in a user-friendly manner.`,
-      href: "https://play.google.com/store/apps/details?id=com.web.mishal_app",
+      title: "Rama 📸",
+      content: `Built a job posting and showcase platform with React and Node.js, enabling users to sign in, upload, and display and showcase their work. A practical tool for creatives to create and share opportunities.`,
+      href: "https://www.ramadreams.com/app",
       image: "/project5.png",
     },
     {
@@ -85,7 +85,7 @@ export default function Portfolio() {
       content:
         "I built a voice assistant that has integrating automatic speech recognition (ASR), natural language processing (NLP), and other technologies to understand and respond to user commands.",
       href: "https://ai-joejoe.netlify.app/",
-      image: "/project.png",
+      image: "/project2.png",
     },
     {
       id: 10,
