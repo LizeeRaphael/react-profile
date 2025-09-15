@@ -56,7 +56,7 @@ export default function Qualification() {
               <div>
                 <h3 className="qualification_title">Mass Communication</h3>
                 <span className="qualification__subtitle">
-                  National Open University of Nigeria(NOUN)
+                  National Open University of Nigeria (NOUN)
                 </span>
                 <div className="qualification__calendar">
                   <UilCalendarAlt />
