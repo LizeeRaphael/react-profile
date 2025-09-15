@@ -42,7 +42,7 @@ export default function Portfolio() {
     },
     {
       id: 4,
-      title: "Social App📱 (Liz|Logic)",
+      title: "Social App📱 (Liz | Logic)",
       content:
         "Built a social app prototype using HTML, CSS, JavaScript, replicating key UI and interaction flows such as posts, likes, and comments. Integrated dark mode switch and adjustable FONT size so users of any age can experience.",
       href: "https://social-media-app-liz-logic.vercel.app/",
@@ -51,7 +51,7 @@ export default function Portfolio() {
     {
       id: 5,
       title: "Rama 📸",
-      content: `Built a job posting and showcase platform with React and Node.js, enabling users to sign in, upload, and display and showcase their work. A practical tool for creatives to create and share opportunities.`,
+      content: `Built a job posting and showcase platform with React and Node.js, enabling users to sign in, upload, display and showcase their work. A practical tool for creatives to create and share opportunities.`,
       href: "https://www.ramadreams.com/app",
       image: "/project5.png",
     },
