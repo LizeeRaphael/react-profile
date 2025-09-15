@@ -99,7 +99,7 @@ export default function Home() {
               loop={1}
               cursor
               cursorStyle="|"
-              typeSpeed={50}
+              typeSpeed={60}
               deleteSpeed={0}
               delaySpeed={1000}
             />
