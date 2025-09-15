@@ -28,7 +28,7 @@ export default function Portfolio() {
       id: 2,
       title: "Manzo ✈️ ",
       content:
-        "Contributed to a real-world flight booking platform built with React and Node.js, developing booking flows (search, checkout, payment), a journey from search to purchase. Widely used by travelers today.",
+        "Contributed to a real-world flight booking platform built with React and Node.js, developed booking flows (search, checkout, payment), a journey from search to purchase. Widely used by travelers today.",
       href: "https://manzo.com.ng/",
       image: "/img/project2.png",
     },
@@ -92,7 +92,7 @@ export default function Portfolio() {
       title: "Dice Game🎲 (Practice)",
       content:
         "Developed a web based dice game with random number generation and score tracking. It improved my ability to apply core JavaScript concepts, reinforcing concepts of state, conditionals, and dynamic UI.",
-      href: "https://lizeeraphael.github.io/lizeepiano.github.io/",
+      href: "https://lizeeraphael.github.io/dicegame/",
       image: "/project10.png",
     },
   ];
