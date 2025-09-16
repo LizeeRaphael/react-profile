@@ -37,14 +37,14 @@ export default function Footer() {
           <div className="footer__socials">
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
-              href="https://https://web.facebook.com/profile.php?id=100064090987402"
+              href="https://linktr.ee/Elizabeth_Akinbola"
               className="footer__social"
             >
               <UilFacebookF />
             </a>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
-              href="https://https://www.instagram.com/liz__logic/?igsh=MXJ5eW04ZnVqMnh6cA%3D%3D#"
+              href="https://linktr.ee/Elizabeth_Akinbola"
               className="footer__social"
             >
               <UilInstagram />
