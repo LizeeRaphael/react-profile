@@ -16,10 +16,10 @@ export default function About() {
 
         <div className="about__data">
           <p className="about__description">
-            Call me Lizee, a full-stack developer with solid background in web and app development. 
-            My approach goes beyond building websites, I sit with your idea and turn it into software products.
-            I merge clean code, smart design and business strategy to deliver websites that are fast, intuitive, and conversion-driven. 
-            My work isn’t just beautiful, it’s built to work.
+            Call me Lizee! I build stunning websites and turn ideas into scalable software products, 
+            My strength lies in merging communication insight: clarity, digital literacy, user psychology with 
+            full-stack development skills to build apps that are fast, intuitive, and revenue-driven. 
+            I don’t just code and my work isn't just beautiful. It is designed to work, grow, and convert.
           </p>
 
           <div className="about__info">
@@ -48,7 +48,7 @@ export default function About() {
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a
               download=""
-              href="https://drive.google.com/file/d/14M8McJbcKX30WfCrYCuAPoWxrlRnV2f3/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1Ip514nPdVXbXp1cBVunkhPQWSasJQ0zw/view?usp=sharing"
               className="button button--flex"
             >
               Download CV
