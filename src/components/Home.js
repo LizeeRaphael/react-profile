@@ -70,7 +70,8 @@ export default function Home() {
       <div className="home__content grid">
         <div className="home__social">
           <a
-            href="https://www.linkedin.com/in/akinbola-elizabeth-ba770217b/"
+            // href="https://www.linkedin.com/in/akinbola-elizabeth-ba770217b/"
+            href="https://www.linkedin.com/in/elizabeth-akinbola/"
             className="home__social-icon"
           >
             <UilLinkedinAlt />
